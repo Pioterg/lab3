@@ -51,7 +51,7 @@ import math
 #     return iloczyn
 # print(iloczyn_ciagu(2, 3, 3))
 
-#zad7 ??
+#zad7 (chyba nie o to chodziło)
 # def iloczyn_ciagu(*, a=1, b=4, ile=10):
 #     iloczyn = 1
 #     for i in range(ile):
@@ -72,11 +72,11 @@ import math
 # print(f'Wartość zakupów: {wartosc} zł')
 
 #zad9
-print('Podaj liczbę do spierwiastkowania:')
-a = float(input())
-try:
-    wynik = math.sqrt(a)
-    print(f"Pierwiastek z {a} to {wynik:.2f}")
-except ValueError:
-    print('Podana liczba jest liczbą ujemną')
+# print('Podaj liczbę do spierwiastkowania:')
+# a = float(input())
+# try:
+#     wynik = math.sqrt(a)
+#     print(f"Pierwiastek z {a} to {wynik:.2f}")
+# except ValueError:
+#     print('Podana liczba jest liczbą ujemną')
 
